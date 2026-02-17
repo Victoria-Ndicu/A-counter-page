@@ -1,6 +1,7 @@
 # People Counter App
 
 ## 📌 Project Description
+https://glistening-crumble-f13514.netlify.app/
 
 This is a simple **People Counter Web App** built using **HTML** and **JavaScript**.
 
