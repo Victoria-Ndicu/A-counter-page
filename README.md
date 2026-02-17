@@ -1,5 +1,5 @@
-People Counter App
-📌 Project Description
+-----People Counter App----
+-----📌 Project Description-----
 
 This is a simple People Counter Web App built using HTML and JavaScript.
 
