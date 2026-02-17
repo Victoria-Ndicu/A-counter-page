@@ -1,32 +1,32 @@
------People Counter App----
------📌 Project Description-----
+# People Counter App
 
-This is a simple People Counter Web App built using HTML and JavaScript.
+## 📌 Project Description
+
+This is a simple **People Counter Web App** built using **HTML** and **JavaScript**.
 
 The app allows a user to:
 
-Increment a counter
+- Increment a counter  
+- Save previous counts  
+- Reset the counter and saved entries  
 
-Save previous counts
+---
 
-Reset the counter and saved entries
+## 🛠 What It Was Built To Practice
 
-It was built to practice:
+This project was built to practice:
 
-JavaScript fundamentals
+- JavaScript fundamentals  
+- DOM manipulation  
+- Functions  
+- Variables  
+- `document.getElementById()`  
+- `textContent`  
 
-DOM manipulation
+---
 
-Functions
+## 📖 Purpose of This Project
 
-Variables
+This project was built as a beginner practice exercise to understand how **JavaScript interacts with HTML using the DOM**.
 
-document.getElementById()
-
-textContent
-
-📖 Purpose of This Project
-
-This project was built as a beginner practice exercise to understand how JavaScript interacts with HTML using the DOM.
-
-It is part of learning frontend web development fundamentals.
+It is part of learning **frontend web development fundamentals**.
